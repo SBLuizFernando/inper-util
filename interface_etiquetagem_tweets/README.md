@@ -7,8 +7,8 @@ Alternativa ao passo anterior:
 
 Digitar no prompt de comando:
 
-pip install pygame
-pip install pandas
+-pip install pygame
+-pip install pandas
 
 O arquivo .xlsx e o arquivo "OpenSansEmoji.ttf" deve estar na mesma pasta que o script "interface_etiquetagem.py"
 
