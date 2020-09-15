@@ -1,14 +1,6 @@
 Antes de executar o script: "interface_etiquetagem.py", vá para o diretório
  \interface_etiquetagem_tweets" (caminho da pasta que vai baixar) e digite 
- no prompt de comando: "pip install requirements.txt"
-
-
-Alternativa ao passo anterior:
-
-Digitar no prompt de comando:
-
-pip install pygame<br/>
-pip install pandas
+ no prompt de comando: "pip install -r requirements.txt"
 
 O arquivo .xlsx e o arquivo "OpenSansEmoji.ttf" deve estar na mesma pasta que o script "interface_etiquetagem.py"
 
